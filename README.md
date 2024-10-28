@@ -1,13 +1,10 @@
-VARIANT 2. MARKETING ANALYTICS
+# VARIANT 2. MARKETING ANALYTICS
 
-BUSINESS PROBLEM DESCRIPTION
+## BUSINESS PROBLEM DESCRIPTION
 
 A company that manufactures and sells electronic devices recently launched an advertising campaign to promote a new product – smart watches. The target audience of the campaign is young professionals aged 25-40, living in large cities, actively using modern technologies and leading a healthy lifestyle. The manager wants to understand whether the advertising campaign was successful and evaluate its impact on sales and return on investment (ROI).
 
-DATA ANALYSIS APPROACH
-
-1. METRICS AND ANALYSIS
-
+## DATA ANALYSIS APPROACH
 • Key marketing metrics:
 
 o Conversion Rate – the percentage of users who made a purchase after interacting with an advertisement. Calculated as the ratio of the number of sales to the number of users who saw the advertisement.
